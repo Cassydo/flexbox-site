@@ -1,0 +1,16 @@
+{
+  "name": "flexbox-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "Cassandra Dauphin",
+  "license": "ISC",
+  "homepage": "https://cassydo.github.io/flexbox-site",
+  "dependencies": {
+    "gh-pages": "^2.0.0"
+  }
+}
